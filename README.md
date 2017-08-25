@@ -1,6 +1,6 @@
 # Visualizing transit freqency from the command line
 
-Using Mapzen's [Transitland API](transit.land) to download transit schedule data and [Processing](processing.org) with [Unfolding Maps](http://unfoldingmaps.org/) to create spatial-temporal visualizations.
+Using Mapzen's [Transitland API](http://transit.land/) to download transit schedule data and [Processing](processing.org) with [Unfolding Maps](http://unfoldingmaps.org/) to create spatial-temporal visualizations.
 
 Here is an example animation generated for San Francisco with a single command:
 
@@ -29,7 +29,7 @@ Without a virtual environment:
 - `pip install -r requirements.txt`
 - `cd transitflow`
 
-Now, you are ready to download transit schedule data and generate visualizations.
+Nowt, you are ready to download transit schedule data and generate visualizations.
 
 There are two ways to go about using this tool:
 
